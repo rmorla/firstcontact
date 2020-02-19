@@ -29,9 +29,9 @@ https://www.offensive-security.com/metasploit-unleashed/
   - https://www.offensive-security.com/metasploit-unleashed/smb-login-check/
 
 
-# Primeiro contacto -- add-on de segurança de redes
+# Primeiro contacto - add-on de segurança de redes
 
- ## Programação para redes e segurança -- Scapy
+ ## Programação para redes e segurança - Scapy
  
  https://scapy.readthedocs.io/en/latest/usage.html
  
