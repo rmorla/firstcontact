@@ -1,6 +1,5 @@
 # Primeiro contacto Cibersegurança FEUP 
 
-
 ## Guião
 
 ### Instalar Kali
@@ -28,3 +27,30 @@ https://www.offensive-security.com/metasploit-unleashed/
 - Scanning de vulnerabilidades
 
   - https://www.offensive-security.com/metasploit-unleashed/smb-login-check/
+
+
+# Primeiro contacto -- add-on de segurança de redes
+
+ ## Programação para redes e segurança -- Scapy
+ 
+ https://scapy.readthedocs.io/en/latest/usage.html
+ 
+ - Captura de tráfego, identificação de URL, geração de pacotes
+ 
+ ## Ferramentas
+ 
+ ### aircrack-ng
+ 
+ - Ataque de desautenticação
+ 
+ ### rogue AP
+ 
+ - registo de credenciais de acesso
+ 
+ ## Deteção de rogue AP
+ 
+ - ??
+ 
+ 
+ 
+ 
