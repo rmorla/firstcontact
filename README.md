@@ -42,6 +42,7 @@ https://www.offensive-security.com/metasploit-unleashed/
  ### aircrack-ng
  
  - Ataque de desautenticação
+ - https://github.com/AIRCRACK-NG/RTL8188EUS
  
  ### rogue AP
  
