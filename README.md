@@ -1,57 +1,27 @@
-# Primeiro contacto Cibersegurança FEUP 
+# Primeiro Contacto Cibersegurança - FEUP 
+
+Esta sessão servirá como primeiro contacto para a área de Cibersegurança.  
+Durante as próximas horas vamos conhecer algumas ferramentas usadas para testes de segurança,
+identificar as máquinas presentes no laboratório de redes, e procurar vulnerabilidades para explorar.
+
+### Requisitos
+- Trazer portátil  
+- Trazer Kali previamente instalado numa máquina virtual
+   - Instalar [VirtualBox](https://www.virtualbox.org/wiki/Downloads) ou [VMware](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0)
+   - Instalar Kali ([**usar imagens pré-feitas**](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/))
+   - Min 2Gb de RAM
+   - Dar acesso bridge à interface de rede (Ethernet ou Wi-Fi)
+- Assinar a declaração de ética
 
 ## Guião
-
-### Instalar Kali
-
-- trazer portátil
-
-- instalar Kali numa máquina virtual no portátil
-
-  - min 2Gb RAM
-  - acesso bridge à porta ethernet
-  - https://www.offensive-security.com/category/kali-linux/
-
-### Seguir passos do curso Metasploit Unleashed
-
-https://www.offensive-security.com/metasploit-unleashed/
-
-- Port scanning do laboratório de redes
-
-  - https://www.offensive-security.com/metasploit-unleashed/port-scanning/
-  
-- Identificação de serviços no laboratório de redes
-
-  - https://www.offensive-security.com/metasploit-unleashed/service-identification/
- 
-- Scanning de vulnerabilidades
-
-  - https://www.offensive-security.com/metasploit-unleashed/smb-login-check/
+1. [Introdução e configurações](./content/1.md)
+2. [Metasploit](./content/2.md)
+   - Information gathering
+   - Vulnerability scanning
+   - ...
+3. [Mais ferramentas](./content/3.md)
 
 
-# Primeiro contacto - add-on de segurança de redes
 
- ## Programação para redes e segurança - Scapy
- 
- https://scapy.readthedocs.io/en/latest/usage.html
- 
- - Captura de tráfego, identificação de URL, geração de pacotes
- 
- ## Ferramentas
- 
- ### aircrack-ng
- 
- - Ataque de desautenticação
- - https://github.com/AIRCRACK-NG/RTL8188EUS
- 
- ### rogue AP
- 
- - registo de credenciais de acesso
- 
- ## Deteção de rogue AP
- 
- - ??
- 
- 
  
  
