@@ -21,3 +21,4 @@ Atacar AP com autenticação WPA (o que se usa em casa).
 
 Atacar AP com autenticação 802.1X PEAP (o que se usa na eduroam).
 
+## Monitorização
