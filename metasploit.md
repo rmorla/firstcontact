@@ -1,4 +1,4 @@
-# Primeiro Contacto Cibersegurança - FEUP 
+# Primeiro Contacto Cibersegurança
 
 Esta sessão servirá como primeiro contacto para a área de Cibersegurança.  
 Durante as próximas horas vamos conhecer algumas ferramentas usadas para testes de segurança,
