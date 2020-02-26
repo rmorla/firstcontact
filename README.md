@@ -8,3 +8,8 @@ Sessão de introdução a conceitos e ferramentas básicas de cibersegurança e 
 ##  [Redes de acesso sem fio 802.11](wireless.md)
 Sessão de ataque a redes sem fio. Wireshark, scapy, aircrack-ng e outras ferramentas. Público alvo: quem já percebeu que gosta de cibersegurança e que quer explorar a segurança das redes de acesso sem fio 802.11.
 
+
+# Sugestão de próximas sessões
+
+- reverse engineering
+- FPGA e microeletrónica
