@@ -1,27 +1,10 @@
 # Primeiro Contacto Cibersegurança - FEUP 
 
-Esta sessão servirá como primeiro contacto para a área de Cibersegurança.  
-Durante as próximas horas vamos conhecer algumas ferramentas usadas para testes de segurança,
-identificar as máquinas presentes no laboratório de redes, e procurar vulnerabilidades para explorar.
+Conjunto de sessões no Laboratório de Redes da FEUP para sensibilização e dinamização de atividades de cibersegurança.
 
-### Requisitos
-- Trazer portátil  
-- Trazer Kali previamente instalado numa máquina virtual
-   - Instalar [VirtualBox](https://www.virtualbox.org/wiki/Downloads) ou [VMware](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0)
-   - Instalar Kali ([**usar imagens pré-feitas**](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/))
-   - Min 2Gb de RAM
-   - Dar acesso bridge à interface de rede (Ethernet ou Wi-Fi)
-- Assinar a declaração de ética
+## Metasploit e pesquisa de informação
+Sessão de introdução a conceitos e ferramentas básicas de cibersegurança e testes de penetração. Metasploit e pesquisa de informação através de apontadores para o curso metasploit unleashed. Público alvo: quem não tem experiência prévia nesta área mas pensa que pode gostar. 
 
-## Guião
-1. [Introdução e configurações](./content/1.md)
-2. [Metasploit](./content/2.md)
-   - Information gathering
-   - Vulnerability scanning
-   - ...
-3. [Mais ferramentas](./content/3.md)
+##  Redes de acesso sem fio 802.11
+Sessão de ataque a redes sem fio. Wireshark, scapy, aircrack-ng e outras ferramentas. Público alvo: quem já percebeu que gosta de cibersegurança e que quer explorar a segurança das redes de acesso sem fio 802.11.
 
-
-
- 
- 
