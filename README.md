@@ -13,3 +13,4 @@ Sessão de ataque a redes sem fio. Wireshark, scapy, aircrack-ng e outras ferram
 
 - reverse engineering
 - FPGA e microeletrónica
+- adversarial learning
