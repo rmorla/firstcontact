@@ -4,7 +4,7 @@ Equipamento:
 
 - NodeMCU https://google.com/search?q=NodeMCU
 - TP Link https://google.com/search?q=TP%20Link%20kali
-- Placa wireless linux
+- Placa wireless linux do netlab
 
 ## SSID spoofing & deauth
 
