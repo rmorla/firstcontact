@@ -1,4 +1,4 @@
-# Primeiro Contacto Cibersegurança - FEUP 
+# Primeiro Contacto Cibersegurança
 
 Conjunto de sessões no Laboratório de Redes da FEUP para sensibilização e dinamização de atividades de cibersegurança.
 
