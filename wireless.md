@@ -5,7 +5,7 @@ Equipamento:
 - NodeMCU https://google.com/search?q=NodeMCU
 - TP Link https://google.com/search?q=TP%20Link%20kali
 
-## SSID spoofing
+## SSID spoofing & deauth
 
 Gerar pontos de acesso falsos.
 
