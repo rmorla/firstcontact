@@ -6,7 +6,6 @@ Equipamento:
 **Trazer computador com Kali instalado numa VM**
 
 
-Recursos: 
 
 ## IMPORTANTE LER - APRESENTAÇÃO DE CONCEITOS FUNDAMENTAIS E FERRAMENTAS USADAS NOS EXERCÍCIOS
 
