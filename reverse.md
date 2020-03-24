@@ -30,8 +30,8 @@ Software a instalar:
 ## Manipulação de Binários
 
 O ficheiro que vamos usar para o exercício de manipulação de binário pode ser obtido na respectiva pasta deste projeto.
-O nome do ficheiro é Gatekeeper. Este é um ficheiro do tipo ELF https://en.wikipedia.org/wiki/Executable_and_Linkable_Format.
-O objetivo é obter uma Flag, como num CTF. Assim que conseguirem, comuniquem a Flag encontrada a um dos monitores. 
+O nome do ficheiro é Gatekeeper. Este é um ficheiro do tipo ELF: https://en.wikipedia.org/wiki/Executable_and_Linkable_Format.
+<br/> O objetivo é obter uma Flag, como num CTF. Assim que conseguirem, comuniquem a Flag encontrada a um dos monitores. 
 
 ## Assembly
 
