@@ -1,5 +1,5 @@
 # Reverse Engineering 
-Nesta sessão iremos explorar Reverse Engineering, uma técnica de análise de executáveis muito utilizada em cibersegurança. Vamos começar por um crackme, avançando depois para assembly e manipulação de binários. Durante estes exercicios serão apresentadas as ferramentas de reverse engineering de programas linux/C e assembly.
+Nesta sessão iremos explorar Reverse Engineering, uma técnica de análise de executáveis muito utilizada em cibersegurança. Vamos começar por um crackme, avançando depois para assembly e manipulação de binários. Durante estes exercicios serão UTILIZADAS ferramentas de reverse engineering de programas linux/C e assembly.
 
 Equipamento:  
 
