@@ -23,7 +23,7 @@ Nesta sessão iremos explorar Reverse Engineering, uma técnica de análise de e
 
 ## Manipulação de Binários
 
-O ficheiro que vamos usar para o exercício de manipulação de binário pode ser obtido na pasta respectiva pasta deste projeto.
+O ficheiro que vamos usar para o exercício de manipulação de binário pode ser obtido na respectiva pasta deste projeto.
 O nome do ficheiro é Gatekeeper. Este é um ficheiro do tipo ELF https://en.wikipedia.org/wiki/Executable_and_Linkable_Format. 
 
 ## Assembly
