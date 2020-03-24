@@ -7,7 +7,7 @@ Equipamento:
 
 Recursos:
 
-- http://www.cs.virginia.edu/~evans/cs216/guides/x86.html   X86 Assembly Guide
+-http://www.cs.virginia.edu/~evans/cs216/guides/x86.html   X86 Assembly Guide
 
 -https://lospi.net/developing/software/software%20engineering/reverse%20engineering/assembly/2015/03/06/reversing-with-ida.html Getting started with Reverse Engineering
 
