@@ -5,7 +5,7 @@ Equipamento:
 **Trazer computador com Kali instalado numa VM**
 
 
-Recursos:
+Recursos: ##IMPORTANTE LER##
 
 - http://www.cs.virginia.edu/~evans/cs216/guides/x86.html   X86 Assembly Guide
 
