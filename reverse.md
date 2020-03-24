@@ -6,7 +6,7 @@ Equipamento:
 **Trazer computador com Kali instalado numa VM**
 
 Software a instalar:
-- IDA -> https://en.wikipedia.org/wiki/Interactive_Disassembler  Tutorial https://www.youtube.com/watch?v=3FnyzJ6bTEs
+- IDA -> https://en.wikipedia.org/wiki/Interactive_Disassembler <br/> Tutorial https://www.youtube.com/watch?v=3FnyzJ6bTEs
 
 
 
