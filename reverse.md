@@ -11,7 +11,7 @@ Existem questões éticas relacionadas com a cibersegurança e o penetration tes
 - Ver em [Metaploit](metasploit.md); não é preciso interface em modo bridge só acesso Internet normal por NAT.
 
 **Ghidra** Ferramenta de reverse engineering, https://ghidra-sre.org. 
-- 1/Java) sudo apt update ; sudo apt install openjdk-11-jdk 
+- 1/Java) sudo apt update ; sudo apt install openjdk-11-jdk ; (verificar /etc/apt/sources.list para htts://)
 - 2/Ghidra) download do zip do site Ghidra, unzip, e correr ./GhidraRun
 - 3/Run) abrir um projeto novo e carregar o binário para análise.
 
