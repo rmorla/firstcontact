@@ -55,12 +55,10 @@ https://www.codementor.io/@packt/reverse-engineering-a-linux-executable-hello-wo
 
 ### Exercício 2 -- Skills
 
-
 **Objectivo:** Descobrir o login para encontrar a flag <br/>
 **Ficheiros:** [skills](content/bin/skills) <br/>
 **Dicas:** strings, ltrace
  
-
 ### Exercício 3 -- CrackMe 2
 
 **Objectivo:** Descobrir a password para encontrar a flag <br/>
@@ -75,7 +73,15 @@ https://www.codementor.io/@packt/reverse-engineering-a-linux-executable-hello-wo
 
 
 
+## Desenrolar do workshop
 
+**Discord**
+- discordapp.com , link de acesso enviado para o endereço de mail
+- canal de dúvidas para instalação do Kali etc antes do workshop (apoio limitado)
+- canais gerais de voz e de texto para acompanhamento durante o workshop
+- canais por exercícios para dúvidas e discussão entre participantes
 
-
+**Best effort**
+- somos muitos inscritos e poucos a dar apoio, precisamos de bom senso e paciência
+- os exercícios ficarão disponíveis após o workshop, e tentaremos dar apoio (limitado) também depois do workshop
 
