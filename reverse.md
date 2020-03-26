@@ -48,17 +48,29 @@ https://www.codementor.io/@packt/reverse-engineering-a-linux-executable-hello-wo
 
 ## Exercício 1 -- CrackMe 1
 
-## Exercício 2 -- Gatekeeper
+**Objectivo:** Descobrir a password para encontrar a flag <br/>
+**Ficheiros:** [ex1_1](content/binarios/ex1.64) [ex1_2](content/binarios/ex1_2.64)<br/>
+**Dicas:** correr o comando chmod +x para tornar o ficheiro executavel, strings 
 
-### Manipulação de Binários
+## Exercício 2 -- Skills
 
-O ficheiro que vamos usar para o exercício de manipulação de binário pode ser obtido na respectiva pasta deste projeto.
-O nome do ficheiro é Gatekeeper. Este é um ficheiro do tipo ELF: https://en.wikipedia.org/wiki/Executable_and_Linkable_Format.
-<br/> O objetivo deste exercício é obter uma Flag, como num CTF. Assim que conseguirem, comuniquem a Flag encontrada a um dos monitores. 
+
+**Objectivo:** Descobrir o login para encontrar a flag <br/>
+**Ficheiros:** [skills](content/binarios/skills) <br/>
+**Dicas:** strings, ltrace
+ 
 
 ## Exercício 3 -- CrackMe 2
 
+**Objectivo:** Descobrir a password para encontrar a flag <br/>
+**Ficheiros:** [ex3_1](content/binarios/ex3.64) [ex3_2](content/binarios/ex3_2.64)<br/>
+**Dicas:** strings, ltrace, objdump, radare2
+
 ## Exercício 4 -- LastOne
+
+**Objectivo:** Encontrar a flag <br/>
+**Ficheiros:** [last_exercise](content/bin/last_exercise)<br/>
+**Dicas:** radare2, ghidra, gdb
 
 
 
