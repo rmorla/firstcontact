@@ -7,7 +7,8 @@ Existem questões éticas relacionadas com a cibersegurança e o penetration tes
 
 ## Requisitos, ferramentas, apontadores:  
 
-**Computador com Kali instalado numa VM** Ver em [Metaploit](metasploit.md), não é preciso modo bridge só acesso Internet por NAT.
+**Computador com Kali instalado numa VM** 
+- Ver em [Metaploit](metasploit.md); não é preciso interface em modo bridge só acesso Internet normal por NAT.
 
 **Ghidra** Ferramenta de reverse engineering, https://ghidra-sre.org. 
 - 1/Java) sudo apt update ; sudo apt install openjdk-11-jdk 
@@ -43,16 +44,16 @@ https://www.codementor.io/@packt/reverse-engineering-a-linux-executable-hello-wo
 
 
 
+## 4 Exercícios
 
 
-
-## Exercício 1 -- CrackMe 1
+### Exercício 1 -- CrackMe 1
 
 **Objectivo:** Descobrir a password para encontrar a flag <br/>
 **Ficheiros:** [ex1_1](content/bin/ex1.64) [ex1_2](content/bin/ex1_2.64)<br/>
 **Dicas:** correr o comando chmod +x para tornar o ficheiro executavel, strings 
 
-## Exercício 2 -- Skills
+### Exercício 2 -- Skills
 
 
 **Objectivo:** Descobrir o login para encontrar a flag <br/>
@@ -60,13 +61,13 @@ https://www.codementor.io/@packt/reverse-engineering-a-linux-executable-hello-wo
 **Dicas:** strings, ltrace
  
 
-## Exercício 3 -- CrackMe 2
+### Exercício 3 -- CrackMe 2
 
 **Objectivo:** Descobrir a password para encontrar a flag <br/>
 **Ficheiros:** [ex3_1](content/bin/ex3.64) [ex3_2](content/bin/ex3_2.64)<br/>
 **Dicas:** strings, ltrace, objdump, radare2
 
-## Exercício 4 -- LastOne
+### Exercício 4 -- LastOne
 
 **Objectivo:** Encontrar a flag <br/>
 **Ficheiros:** [last_exercise](content/bin/last_exercise)<br/>
