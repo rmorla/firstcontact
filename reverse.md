@@ -3,7 +3,7 @@ Nesta sessão iremos explorar Reverse Engineering, uma técnica de análise de e
 
 Equipamento:  
 
-**Computador com Kali instalado numa VM** Ver em [metasploit.md]
+**Computador com Kali instalado numa VM** Ver em [Metaploit](metasploit.md)
 
 
 
