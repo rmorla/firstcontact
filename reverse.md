@@ -1,7 +1,11 @@
 # Reverse Engineering 
 Nesta sessão iremos explorar Reverse Engineering, uma técnica de análise de executáveis muito utilizada em cibersegurança. Vamos começar por um crackme, avançando depois para assembly e manipulação de binários. Durante estes exercicios serão utilizadas ferramentas de reverse engineering de programas linux/C e assembly.
 
-Requisitos, ferramentas, apontadores:  
+## Nota prévia -- IMPORTANTE
+
+Existem questões éticas relacionadas com a cibersegurança e o penetration testing, por exemplo sobre a exploração ilegítima de vulnerabilidades e informação encontrada através destas atividades. Pode ser encontrada em vários sites da Internet uma ampla discussão sobre estas questões éticas (um exemplo é https://cert.eccouncil.org/code-of-ethics.html). Chamamos a atenção para a necessidade de estar consciente destas questões éticas e de que não deve ser utilizada informação e conhecimento adquiridos para ciber-ataques ou outras atividades ilegais.
+
+## Requisitos, ferramentas, apontadores:  
 
 **Computador com Kali instalado numa VM** Ver em [Metaploit](metasploit.md), não é preciso modo bridge só acesso Internet por NAT.
 
