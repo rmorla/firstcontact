@@ -49,21 +49,21 @@ https://www.codementor.io/@packt/reverse-engineering-a-linux-executable-hello-wo
 ## Exercício 1 -- CrackMe 1
 
 **Objectivo:** Descobrir a password para encontrar a flag <br/>
-**Ficheiros:** [ex1_1](content/binarios/ex1.64) [ex1_2](content/binarios/ex1_2.64)<br/>
+**Ficheiros:** [ex1_1](content/bin/ex1.64) [ex1_2](content/bin/ex1_2.64)<br/>
 **Dicas:** correr o comando chmod +x para tornar o ficheiro executavel, strings 
 
 ## Exercício 2 -- Skills
 
 
 **Objectivo:** Descobrir o login para encontrar a flag <br/>
-**Ficheiros:** [skills](content/binarios/skills) <br/>
+**Ficheiros:** [skills](content/bin/skills) <br/>
 **Dicas:** strings, ltrace
  
 
 ## Exercício 3 -- CrackMe 2
 
 **Objectivo:** Descobrir a password para encontrar a flag <br/>
-**Ficheiros:** [ex3_1](content/binarios/ex3.64) [ex3_2](content/binarios/ex3_2.64)<br/>
+**Ficheiros:** [ex3_1](content/bin/ex3.64) [ex3_2](content/bin/ex3_2.64)<br/>
 **Dicas:** strings, ltrace, objdump, radare2
 
 ## Exercício 4 -- LastOne
