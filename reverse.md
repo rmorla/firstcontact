@@ -5,6 +5,8 @@ Nesta sessão iremos explorar Reverse Engineering, uma técnica de análise de e
 
 Existem questões éticas relacionadas com a cibersegurança e o penetration testing, por exemplo sobre a exploração ilegítima de vulnerabilidades e informação encontrada através destas atividades. Pode ser encontrada em vários sites da Internet uma ampla discussão sobre estas questões éticas (um exemplo é https://cert.eccouncil.org/code-of-ethics.html). Chamamos a atenção para a necessidade de estar consciente destas questões éticas e de que não deve ser utilizada informação e conhecimento adquiridos para ciber-ataques ou outras atividades ilegais.
 
+Outra nota: correr sempre executáveis em ambientes controlados -- sandbox, máquina virtual.
+
 ## Requisitos, ferramentas, apontadores:  
 
 **Computador com Kali instalado numa VM** 
