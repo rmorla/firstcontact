@@ -5,7 +5,10 @@ Requisitos, ferramentas, apontadores:
 
 **Computador com Kali instalado numa VM** Ver em [Metaploit](metasploit.md), não é preciso modo bridge só acesso Internet por NAT.
 
-**Ghidra** Ferramenta de reverse engineering, https://ghidra-sre.org. 1/Java) sudo apt update ; sudo apt install openjdk-11-jdk , 2/Ghidra) download do zip do site Ghidra, unzip, e correr ./GhidraRun, 3/Run) abrir um projeto novo e carregar o binário para análise.
+**Ghidra** Ferramenta de reverse engineering, https://ghidra-sre.org. 
+- 1/Java) sudo apt update ; sudo apt install openjdk-11-jdk 
+- 2/Ghidra) download do zip do site Ghidra, unzip, e correr ./GhidraRun
+- 3/Run) abrir um projeto novo e carregar o binário para análise.
 
 **Outras ferramentas, incluídas no Kali** 
 - file para ver características do ficheiro
@@ -19,7 +22,7 @@ Requisitos, ferramentas, apontadores:
 - ltrace e strace, instrumentação dinâmica, sudo apt install ltrace strace
 - edb, debugger, sudo apt install edb-debugger
 
-**Apontadores
+**Apontadores**
 
 https://www.codementor.io/@packt/reverse-engineering-a-linux-executable-hello-world-rjceryk5d
 
